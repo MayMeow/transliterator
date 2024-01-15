@@ -1,0 +1,15 @@
+{
+  "name": "transliterator",
+  "version": "1.0.0",
+  "description": "Small javascript library for transliterate and slugify accented languages.",
+  "main": "transliterator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "maymeow"
+  },
+  "author": "May Meow",
+  "license": "ISC"
+}
