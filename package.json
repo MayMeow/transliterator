@@ -1,5 +1,5 @@
 {
-  "name": "transliterator",
+  "name": "@themaymeow/transliterator",
   "version": "1.0.0",
   "description": "Small javascript library for transliterate and slugify accented languages.",
   "main": "transliterator.js",
@@ -8,8 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "maymeow"
+    "url": "https://github.com/MayMeow/transliterator"
   },
   "author": "May Meow",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayMeow/transliterator/issues"
+  }
 }
